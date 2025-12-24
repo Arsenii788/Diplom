@@ -1,0 +1,2 @@
+# Diplom
+diplom_predza
